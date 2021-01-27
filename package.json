@@ -184,22 +184,19 @@
     "webpack-manifest-plugin": "2.2.0",
     "workbox-webpack-plugin": "5.1.4"
   },
-  "files": [
-    "**/*",
-    "build/icon.*"
-  ],
   "build": {
     "asar": true,
     "productName": "今晚加鸡腿-Beta.1.0",
     "files": [
       "**/*",
-      "build/*"
+      "build/*",
+      "static/icon.*"
     ],
     "mac": {
       "icon": "static/icon.icns"
     },
     "extraResources": [{
-      "from": "build/",
+      "from": "static/",
       "to": "static/"
     }]
   },
