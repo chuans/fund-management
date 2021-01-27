@@ -2,9 +2,9 @@
 
 ### 先上图
 
-![http://img.chuansroom.com/fundManager/page1.png]()
+自己copy一下： http://img.chuansroom.com/fundManager/page1.png
 
-![http://img.chuansroom.com/fundManager/page2.png]()
+自己copy一下： http://img.chuansroom.com/fundManager/page2.png
 
 
 
